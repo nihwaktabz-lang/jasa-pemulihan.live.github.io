@@ -1,0 +1,236 @@
+*{
+margin:0;
+padding:0;
+box-sizing:border-box;
+font-family:Poppins,sans-serif;
+}
+
+body{
+    margin:0;
+    padding:0;
+    font-family:Poppins,sans-serif;
+    color:white;
+
+    background-image: linear-gradient(rgba(0,0,0,.75), rgba(0,0,0,.75)), url("background.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+}
+
+header{
+display:flex;
+justify-content:space-between;
+align-items:center;
+padding:25px 8%;
+background:#0b111d;
+}
+
+nav a{
+color:white;
+text-decoration:none;
+margin:0 15px;
+transition:.3s;
+}
+
+nav a:hover{
+color:#0004ff;
+}
+
+.btn{
+background:#ff0000;
+padding:12px 25px;
+border-radius:10px;
+text-decoration:none;
+color:white;
+font-weight:bold;
+}
+
+.hero{
+display:flex;
+justify-content:space-between;
+align-items:center;
+padding:80px 8%;
+}
+
+.left{
+max-width:550px;
+}
+
+.left span{
+color:#ff0000;
+font-weight:bold;
+}
+
+.left h1{
+font-size:60px;
+margin:20px 0;
+line-height:70px;
+}
+
+.left p{
+font-size:18px;
+color:#cfcfcf;
+margin-bottom:30px;
+}
+
+.buttons{
+display:flex;
+gap:15px;
+}
+
+.btn2{
+border:2px solid #ff0000;
+padding:12px 25px;
+border-radius:10px;
+text-decoration:none;
+color:white;
+}
+
+.right{
+display:flex;
+justify-content:center;
+align-items:center;
+}
+
+.card{
+background:#111827;
+padding:35px;
+border-radius:20px;
+border:1px solid #ff0000;
+box-shadow:0 0 30px rgba(255, 0, 0, 0.4);
+}
+
+.card h3{
+margin-bottom:20px;
+}
+
+.card p{
+margin:12px 0;
+color:#00ff99;
+}
+
+.fitur{
+display:grid;
+grid-template-columns:repeat(3,1fr);
+gap:25px;
+padding:60px 8%;
+}
+
+.box{
+background:#111827;
+padding:35px;
+text-align:center;
+border-radius:20px;
+transition:.3s;
+}
+
+.box:hover{
+transform:translateY(-10px);
+box-shadow:0 0 20px #ff0000;
+}
+
+.box h2{
+font-size:40px;
+color:#ff0000;
+margin-bottom:10px;
+}
+
+.contact{
+    padding:80px 8%;
+    text-align:center;
+}
+
+.contact h2{
+    font-size:40px;
+    color:#ff0000;
+    margin-bottom:10px;
+}
+
+.contact p{
+    color:#bbb;
+    margin-bottom:35px;
+}
+
+.contact-box{
+    display:flex;
+    justify-content:center;
+    gap:25px;
+    flex-wrap:wrap;
+}
+
+.contact-btn{
+    width:220px;
+    padding:18px;
+    border-radius:15px;
+    text-decoration:none;
+    color:white;
+    font-size:18px;
+    font-weight:bold;
+    transition:.3s;
+}
+
+.contact-btn:hover{
+    transform:translateY(-8px);
+}
+
+.wa{
+    background:#25D366;
+}
+
+.ig{
+    background:linear-gradient(45deg,#833AB4,#FD1D1D,#FCAF45);
+}
+
+.yt{
+    background:#FF0000;
+}
+.testimoni{
+padding:80px 8%;
+text-align:center;
+}
+
+.testimoni h2{
+font-size:40px;
+margin-bottom:40px;
+color:#ff0000;
+}
+
+.gallery{
+display:grid;
+grid-template-columns:repeat(auto-fit,minmax(250px,1fr));
+gap:20px;
+}
+
+.gallery img{
+width:100%;
+border-radius:15px;
+border:2px solid #ff0000;
+cursor:pointer;
+transition:.3s;
+}
+
+.gallery img:hover{
+transform:scale(1.05);
+box-shadow:0 0 20px #ff0000;
+}
+:eyes:
+Click to react
+:face_with_hand_over_mouth:
+Click to react
+:laughing:
+Click to react
+Add Reaction
+Edit
+Forward
+More
+
+Message @fuck and kiss me!!
+﻿
+Send GIF
+fuck and kiss me!!'s profile
+
+
+fuck and kiss me!!
+cowo_keren
+Pronouns: KING SAMTEKKING SAMTEK
